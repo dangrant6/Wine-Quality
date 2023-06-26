@@ -10,3 +10,6 @@ All code for this project has been packaged into a Jupyter Notebook: wine-qualit
 The dataset used within this notebook is winequality-white.csv
 
 Ensure that all dependent python packages are installed in your local environment and step through the notebook to execute the analysis.
+
+DATA:
+Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). Wine Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
